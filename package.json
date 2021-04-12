@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-source-filesystem-markdown-name",
+  "version": "1.0.0",
+  "description": "Exposes a new node field called name to allow filtering of separate folders using the gatsby-source-filesystem plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build script setup\""
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+	"markdown",
+	"blog"
+  ],
+  "author": "Terry Butler",
+  "license": "MIT",
+  "homepage": "https://github.com/terryjbutler/gatsby-source-filesystem-markdown-name",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terryjbutler/"
+  }
+}
